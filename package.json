@@ -1,0 +1,23 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmarko1711/learning_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmarko1711/learning_typescript/issues"
+  },
+  "homepage": "https://github.com/pmarko1711/learning_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
